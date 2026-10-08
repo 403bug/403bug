@@ -31,13 +31,32 @@ Just learning.
 ---
 
 ## Connect
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=403bug&theme=react&locale=zh_Hans" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=403bug&theme=meta-light&locale=zh_Hans" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=403bug&theme=react&locale=zh_Hans" alt="GitHub Streak" />
+  </picture>
+</div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=403bug&show_icons=true&theme=react&hide_border=true&locale=en" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=403bug&show_icons=true&theme=buefy&hide_border=true&locale=en" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=403bug&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=403bug&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=react" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=403bug&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=buefy" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=403bug&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=buefy" alt="Top Languages" />
+  </picture>
+</div>
 
 <p align="center">
   <a href="https://github.com/403bug" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-403bug-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 <p align="center">
   <em>Thanks for visiting.</em>
 </p>
